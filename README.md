@@ -32,8 +32,13 @@ Supplier_SLA_Dashboard/
 │   ├── create_tables.py
 │   ├── generate_data.py
 │
+│── tests/
+│   └── test_kpi_logic.py
+│
 │── requirements.txt
-│── README.md   
+│── README.md
+│── DESIGN_DOCUMENT.md
+
 ```
 
 ---
