@@ -95,3 +95,6 @@ The data used in this project is synthetically generated. It includes supplier n
 - Average Payment Days – Average time taken to pay suppliers
 
 - Average Outstanding Amount – Average unpaid invoice amount
+
+## Demo Video
+https://drive.google.com/file/d/1A6GlJM-S2Jc-ib-vrhoJUZMlMwnsYpof/view?usp=sharing
